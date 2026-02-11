@@ -42,10 +42,12 @@ A interface foi planejada para ser intuitiva, com navegação simples e acesso r
 ## 📸 Interface do Sistema
 
 ### Gerenciamento de Serviços
-![Gerenciamento de Serviços](readme/imagens/GerenciamentoServicos.jpg)
+ <img src="readme/imagens/GerenciamentoServicos.jpg" width="700"> 
+
+
 
 ### Agenda de Serviços
-![Agenda de Serviços](readme/imagens/AgendaServicos.jpg)
+<img src="readme/imagens/AgendaServicos.jpg" width="700">
 
 <br>
 
