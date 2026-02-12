@@ -51,7 +51,7 @@ The interface was designed to be intuitive, with simple navigation and quick acc
   <tr>
     <td><img src="readme/imagens/GerenciamentoServicos.jpg" width="350"></td>
     <td><img src="readme/imagens/AgendaServicos.jpg" width="350"></td>
-    <td><img src="readme/imagens/Relatorio.png" width="350"></td>
+    <td><img src="readme/imagens/Relatorio.PNG" width="350"></td>
   </tr>
 </table>
 
