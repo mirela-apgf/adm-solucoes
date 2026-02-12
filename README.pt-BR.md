@@ -41,14 +41,19 @@ A interface foi planejada para ser intuitiva, com navegação simples e acesso r
 <br>
 
 ## 📸 Interface do Sistema
-
-### Gerenciamento de Serviços
- <img src="readme/imagens/GerenciamentoServicos.jpg" width="700"> 
-
-
-
-### Agenda de Serviços
-<img src="readme/imagens/AgendaServicos.jpg" width="700">
+<br>
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="left"><b>Gerenciamento de Serviços</b></td>
+    <td align="left"><b>Agenda de Serviços</b></td>
+    <td align="left"><b>Relatório de Vendas</b></td>
+  </tr>
+  <tr>
+    <td><img src="readme/imagens/GerenciamentoServicos.jpg" width="350"></td>
+    <td><img src="readme/imagens/AgendaServicos.jpg" width="350"></td>
+    <td><img src="readme/imagens/Relatorio.PNG" width="350"></td>
+  </tr>
+</table>
 
 <br>
 
