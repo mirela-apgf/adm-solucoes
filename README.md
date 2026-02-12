@@ -1,30 +1,30 @@
 # 💼 ADM Soluções
 
-Sistema web desenvolvido para organizar e otimizar a prestação de serviços, conectando clientes e administração em um único ambiente digital.
+Web system designed to organize and optimize service operations, connecting clients and administration in a single digital environment.
 
-A solução permite que clientes consultem serviços, realizem agendamentos, enviem mensagens, efetuem pagamentos e registrem avaliações.  
-Já o painel administrativo oferece controle completo da operação, facilitando a gestão de usuários, horários e atendimentos.
-
-<br>
-
-## 🚀 Funcionalidades
-
-### Cliente
-- Visualizar serviços  
-- Realizar agendamentos  
-- Enviar mensagens  
-- Efetuar pagamentos  
-- Avaliar atendimentos  
-
-### Administrador
-- Cadastrar e editar serviços  
-- Gerenciar usuários  
-- Controlar agendamentos  
-- Visualizar feedbacks  
+The platform allows clients to browse services, schedule appointments, send messages, make payments, and submit reviews.  
+The administrative panel provides full operational control, simplifying user, schedule, and service management.
 
 <br>
 
-## 🛠 Tecnologias
+## 🚀 Features
+
+### Client
+- View available services  
+- Schedule appointments  
+- Send messages  
+- Make payments  
+- Rate services  
+
+### Administrator
+- Create and edit services  
+- Manage users  
+- Control appointments  
+- View feedback  
+
+<br>
+
+## 🛠 Technologies
 
 - PHP  
 - HTML  
@@ -33,28 +33,25 @@ Já o painel administrativo oferece controle completo da operação, facilitando
 
 <br>
 
-## 💡 Usabilidade
+## 💡 Usability
 
-A interface foi planejada para ser intuitiva, com navegação simples e acesso rápido às funções mais importantes, ajudando a tornar o atendimento mais ágil e organizado.
+The interface was designed to be intuitive, with simple navigation and quick access to key features, making service management faster and more efficient.
 
 <br>
 
-## 📸 Interface do Sistema
+## 📸 System Interface
 
-### Gerenciamento de Serviços
- <img src="readme/imagens/GerenciamentoServicos.jpg" width="700"> 
+### Service Management
+<img src="readme/imagens/GerenciamentoServicos.jpg" width="700">
 
-
-
-### Agenda de Serviços
+### Service Schedule
 <img src="readme/imagens/AgendaServicos.jpg" width="700">
 
 <br>
 
-## ▶ Como executar
+## ▶ How to Run
 
-1. Clonar o repositório  
-2. Configurar o banco de dados  
-3. Ajustar `db_connect.php`  
-4. Rodar em servidor local (XAMPP/WAMP)  
-
+1. Clone the repository  
+2. Set up the database  
+3. Configure `db_connect.php`  
+4. Run on a local server (XAMPP/WAMP)
