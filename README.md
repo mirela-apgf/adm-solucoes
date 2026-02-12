@@ -1,4 +1,9 @@
-🌎 Languages: **English** | [Português](README.pt-BR.md)
+<p align="center">
+  🌐 <b>Languages:</b> 
+  <b>English 🇺🇸</b> • 
+  <a href="./README.pt-BR.md">Português 🇧🇷</a>
+</p>
+
 # 💼 ADM Soluções
 
 Web system designed to organize and optimize service operations, connecting clients and administration in a single digital environment.
